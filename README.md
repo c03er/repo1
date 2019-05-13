@@ -1,1 +1,1 @@
-Inventory and sales management system for a biscuit agency.
+Inventory and sales management system for a biscuit agency. 
