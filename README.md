@@ -1,1 +1,1 @@
-"# repo1" 
+Inventory and sales management system for a biscuit agency.
